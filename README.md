@@ -25,7 +25,7 @@ A simple, cryptographically secure password generator for the command line. This
 python password_generator.py
 ```
 
-> [Note]
+> [!Note]
 > You may need to use `python3` instead of `python` depending on how your Mac/Linux system is configured.
 
 *The script will prompt you for your preferences right there in the console and output your secure password immediately.*
