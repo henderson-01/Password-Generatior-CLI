@@ -2,7 +2,7 @@
 
 First of all, thank you for showing interest in this project! 👋
 
-Because the **password_generator.py** project is part of my *learning journey*, I encourage you to fork the repository instead of submitting pull requests, **as I am not currently accepting merges to the main branch.**
+Because the **password_generator.py** project was part of my *learning journey*, I encourage you to fork the repository instead of submitting pull requests, **as I am not currently accepting merges to the main branch.**
 
 ## ⚡️ What you can do
 
@@ -18,4 +18,4 @@ By participating in or using this project, you agree to the terms laid out in th
 
 *I hope you enjoy the project and keep learning.*
 
-`Happy coding!`
+Happy coding!
