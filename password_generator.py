@@ -74,17 +74,17 @@ if __name__ == "__main__":
         password_length = 12
 
     # Yes and No is (y/n)
-    include_special = (
+    use_special = (
         input("Include special characters? (y/n): ").strip().lower() == "y"
     )
-    include_numbers = input("Include numbers? (y/n): ").strip().lower() == "y"
+    use_numbers = input("Include numbers? (y/n): ").strip().lower() == "y"
 
     # Generate the password
-    new_password = generate_password(password_length, include_special, include_numbers)
+    new_password = generate_password(password_length, use_special, use_numbers)
     print(f"\nGenerated Password: {new_password}")
 
     # Validate the generated password using the same rules
-    if validate_password(new_password, include_special, include_numbers):
+    if validate_password(new_password, use_special, use_numbers):
         print("Status: Password is strong. ✅\n")
     else:
         print("Status: Password is weak. ⚠️\n")
