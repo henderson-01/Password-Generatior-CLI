@@ -44,7 +44,6 @@ Status: Password is strong. ✅
 
 ```
 
-## ⚠️ Disclaimer
+## 📄 License
 
-> [!CAUTION]
-> This is provided "as-is" without any warranty of any kind. I am not responsible for any issues, data loss, or other problems that may arise from using this project. (code-related or otherwise) **Use it at your own risk**.
+This project is licensed under the MIT License — see [LICENSE](LICENCE) for details.
